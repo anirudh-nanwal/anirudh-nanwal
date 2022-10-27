@@ -14,5 +14,5 @@ I am Anirudh Nanwal, a web developer with a hands-on/relevant experience of 3 ye
 - Angular (Angular 1.x and 9.x)
 - Docker
 
-Please feel free to contact me at:
+Please feel free to contact me at
 Email Id: anirudhnanwal@gmail.com
